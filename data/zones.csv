@@ -1,0 +1,9 @@
+zone_id,location,capacity,zone_type
+Z01,Central Market,20,Commercial
+Z02,City Mall,30,Mall
+Z03,Tech Park,40,Office
+Z04,Railway Station,25,Transit
+Z05,Old Town,3,Residential
+Z06,Hospital Road,15,Commercial
+Z07,University,30,Office
+Z08,Riverside,12,Residential
